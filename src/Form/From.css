@@ -1,0 +1,140 @@
+box {
+    height: 600px;
+    width: 40%;
+    background-color: rgb(215, 225, 233);
+    border-radius: 25px;
+    margin-left: 460px;
+    margin-top: 20px;
+}
+
+.form {
+    width: 80%;
+    margin-left: 10%;
+    padding-top: 3%;
+}
+
+.inp1 {
+    margin-left: 60px;
+    width: 20%;
+    height: 25px;
+
+}
+
+.inp2 {
+    margin-left: 10px;
+    height: 25px;
+}
+
+.inp3 {
+    margin-left: 22px;
+    width: 16%;
+    height: 25px;
+}
+
+.inp4 {
+    width: 26%;
+    height: 25px;
+    margin-left: 5px;
+}
+
+.inp5 {
+    margin-left: 88px;
+    width: 51%;
+    height: 25px;
+}
+
+.inp6 {
+    margin-left: 64px;
+    height: 25px;
+}
+
+.inp7 {
+    margin-left: 85px;
+}
+
+.inp8 {
+    margin-left: 25px;
+}
+
+.inp9 {
+    margin-left: 25px;
+}
+
+.inp10 {
+    margin-left: 80px;
+}
+
+.inp11 {
+    margin-left: 20px;
+}
+
+.inp12 {
+    margin-left: 72px;
+    width: 34%;
+    height: 25px;
+}
+
+.click {
+    height: 40px;
+    width: 100px;
+    font-size: 20px;
+    margin-top: 15%;
+    margin-left: 47%;
+    position: absolute;
+    z-index: -3;
+    border-radius: 10px;
+}
+
+.click:hover {
+    background-color: rgb(167, 209, 229);
+    cursor: pointer;
+    transform: scale(1.1) rotateX(8deg) rotateY(5deg) rotateZ(5deg);
+}
+
+.button1 {
+    margin-left: 25px;
+    width: 100px;
+    height: 40px;
+    font-size: 15px;
+    border-radius: 5px;
+    border: 1px solid rgb(75, 74, 74);
+}
+
+.button1:hover {
+    background-color: rgb(167, 209, 229);
+    cursor: pointer;
+    transform: scale(1.1) rotateX(1deg) rotateY(2deg) rotateZ(3deg);
+}
+
+.button2 {
+    margin-left: 50px;
+    width: 100px;
+    height: 40px;
+    font-size: 15px;
+    border-radius: 5px;
+    border: 1px solid rgb(75, 74, 74);
+}
+
+.button2:hover {
+    background-color: rgb(167, 209, 229);
+    cursor: pointer;
+    transform: scale(1.1) rotateX(-1deg) rotateY(-2deg) rotateZ(-3deg);
+}
+
+.message {
+    font-size: 15px;
+    color: red;
+    margin-left: 130px;
+}
+
+.btn1 {
+    background-color: rgb(95, 231, 95);
+    width: 60px;
+    height: 40px;
+}
+
+.btn2 {
+    background-color: red;
+    width: 70px;
+    height: 40px;
+}
